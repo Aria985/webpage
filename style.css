@@ -1,0 +1,70 @@
+body{
+  background-color:rgb(4, 78, 75);
+  margin: 5%
+}
+
+h1{
+  color:cornsilk;
+  margin-left: 10px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+h3{
+  color: cornsilk;
+  ,margin-left: 30px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 20px
+}
+
+p{
+  color: cornsilk;
+  margin-left: 10px;
+  font-family:Verdana, Geneva, sans-serif;
+  font-size: 15px;
+  text-align: center
+}
+
+ul{
+  color: cornsilk;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 15px
+}
+
+.center { /* creates a box to put words and images in plus creating a boarder*/
+  margin: auto;
+  width: 60%;
+  border: 2px solid cornsilk ;
+  padding: 13px;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+  color: cornsilk;
+}
+
+table {
+  border-spacing: 5px;
+  text-align: center
+}
+
+a{
+  color:rgb(188, 255, 255) ;
+  font-family:Verdana, Geneva, sans-serif;
+  text-align: center;
+}
+
+h4{
+   color:cornsilk ;
+  font-family:Verdana, Geneva, sans-serif;
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(85, 126, 126);
+  color: white;
+  text-align: center;
+}
